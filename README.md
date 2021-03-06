@@ -1,2 +1,4 @@
-# Plugin_locales_creater
- Create json files (_locales) for browser plugin from xlsx
+The plugin allows you to create JSON files for localization of plugins from xlsx.
+
+An example of localization files and xlsx file can be found in the example directory.
+
